@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 !! GG Witam Cie!
+=======
+!! - !! Witam Cie!
+>>>>>>> third_branch
 Wojciechu
